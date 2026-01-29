@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>GDL Köln Hbf Podcast</title>
+    <link>https://www.gdl.de</link>
+    <language>de-de</language>
+    <itunes:explicit>false</itunes:explicit>
+    <description>
+      Podcast der GDL-Ortsgruppe Köln Hbf für unsere Mitglieder.
+    </description>
+
+    <item>
+      <title>Folge 1 – Auftakt</title>
+      <description>Unsere erste Podcast-Folge.</description>
+      <enclosure
+        url="www_gdl_de/bezirke/nordrhein-westfalen/Ortsgruppen/Koeln_Hbf/Podcast/Folge_4-1.mp3"
+        length="0"
+        type="audio/mpeg"/>
+      <guid>folge-1</guid>
+      <pubDate>Mon, 29 Jan 2026 10:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
